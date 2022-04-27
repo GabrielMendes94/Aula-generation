@@ -1,0 +1,16 @@
+
+Oi, Gabriel. Em caso de médico entra como justificado (caso ainda estejamos síncronos), peço apenas que, se possível, pegue a declaração de comparecimento do médico pra enviar ao setor de bem estar.
+
+
+git  bash (preferencia)
+
+cls ou ctrl L : limpar tela
+dir  criar diretorio
+rd   remover diretorio
+ctrl c   interromper comando
+
+Retorno: 14h20
+
+
+git - versionar os projetos desenvolvidos ao longo do curso
+github - Hospedar os projetos desenvolvidos que utilizam o git na nuvem
