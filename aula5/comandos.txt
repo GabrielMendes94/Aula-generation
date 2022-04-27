@@ -1,7 +1,3 @@
-
-Oi, Gabriel. Em caso de médico entra como justificado (caso ainda estejamos síncronos), peço apenas que, se possível, pegue a declaração de comparecimento do médico pra enviar ao setor de bem estar.
-
-
 git  bash (preferencia)
 
 cls ou ctrl L : limpar tela
